@@ -1,7 +1,7 @@
 # Dicee App Flutter 🎲
 A new Flutter project.
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
 
 ## What I have used
 
